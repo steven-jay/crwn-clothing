@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-const { HomePage } = require('./homepage.component')
+const { HomePage } = require('./pages/homepage/homepage.component')
 
 function App() {
   return (
